@@ -17,6 +17,6 @@
     }
   },
   "rewards": {
-    "function": "talking_villager:talking/interaction/disgusted"
+    "function": "talking_villager:interaction/disgusted"
   }
 }

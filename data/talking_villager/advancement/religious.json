@@ -17,6 +17,6 @@
     }
   },
   "rewards": {
-    "function": "talking_villager:talking/interaction/religious"
+    "function": "talking_villager:interaction/religious"
   }
 }

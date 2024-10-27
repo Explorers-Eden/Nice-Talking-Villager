@@ -17,6 +17,6 @@
     }
   },
   "rewards": {
-    "function": "talking_villager:talking/interaction/happy"
+    "function": "talking_villager:interaction/happy"
   }
 }

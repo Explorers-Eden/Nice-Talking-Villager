@@ -17,6 +17,6 @@
     }
   },
   "rewards": {
-    "function": "talking_villager:talking/interaction/excited"
+    "function": "talking_villager:interaction/excited"
   }
 }
