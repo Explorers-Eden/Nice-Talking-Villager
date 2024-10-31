@@ -17,6 +17,6 @@
     }
   },
   "rewards": {
-    "function": "talking_villager:interaction/neutral"
+    "function": "talking_villager:interaction/neutral/run"
   }
 }

@@ -17,6 +17,6 @@
     }
   },
   "rewards": {
-    "function": "talking_villager:interaction/sad"
+    "function": "talking_villager:interaction/sad/run"
   }
 }

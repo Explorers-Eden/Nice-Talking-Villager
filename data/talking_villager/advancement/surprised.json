@@ -17,6 +17,6 @@
     }
   },
   "rewards": {
-    "function": "talking_villager:interaction/surprised"
+    "function": "talking_villager:interaction/surprised/run"
   }
 }
