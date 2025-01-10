@@ -40,7 +40,7 @@ function talking_villager:database/dialogue/disgusted/undead
 
 #excited
 function talking_villager:database/dialogue/frightened/enderman
-function talking_villager:database/dialogue/frightened/iron_golem
+function talking_villager:database/dialogue/frightened/iron_golem_farm
 function talking_villager:database/dialogue/frightened/pale_garden
 function talking_villager:database/dialogue/frightened/trading_hall
 
