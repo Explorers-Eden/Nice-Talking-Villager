@@ -1,4 +1,4 @@
-$tellraw @s [$(name),{"bold":false,"color":"gray","italic":false,"text":": "},{"bold":false,"color":"gray","italic":true,"text":"$(msg)"}]
+$tellraw @s [{"bold":false,"color":"white","italic":false,"text":"$(name)"},{"bold":false,"color":"gray","italic":false,"text":": "},{"bold":false,"color":"gray","italic":true,"text":"$(msg)"}]
 
 execute as @s at @s run playsound minecraft:entity.chicken.egg neutral @s ~ ~ ~ .6 2
 

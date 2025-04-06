@@ -7,7 +7,8 @@
       "minecraft:snow",
       "minecraft:mangrove_propagule",
       "minecraft:spruce_sapling",
-      "minecraft:lead"
+      "minecraft:lead",
+      "minecraft:name_tag"
     ]
   }
   
